@@ -1,0 +1,3 @@
+{
+  "mongoURI":"mongodb+srv://regev:regev@cluster0.ayaxq.mongodb.net/ShortenApp?retryWrites=true&w=majority"
+}
